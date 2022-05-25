@@ -1,1 +1,1 @@
-README \nThe first one is to desplay current working directory \n   
+This document is shell commands.
