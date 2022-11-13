@@ -1,0 +1,19 @@
+https://imgur.com/n2i0cvF
+
+-For every additional element, why you are adding it?
+We added another server and using another server helps to serve active-passive server method.
+Less SPOF
+handle to much trafic.
+
+-What distribution algorithm your load balancer is configured with and how it works
+Active-Passive
+Active-passive solutions deploy an active instance that handles requests and a passive instance that is on standby.
+
+-How a database Primary-Replica (Master-Slave) cluster works?
+Master-slave replication enables data from one database server (the master) to be replicated to one or more other database servers (the slaves). The master logs the updates, which then ripple through to the slaves.
+
+What is the difference between the Primary node and the Replica node in regard to the application?
+
+There are some SPOF
+Due to power loss and Much trafic
+The connecton is not secure, since there is no firewalls
