@@ -1,0 +1,19 @@
+https://imgur.com/ElLIfFq
+
+-For every additional element, why you are adding it?
+we added 3 firewalls and SSL for security purpose
+
+-What are firewalls for?
+For secured connection between the client and the server.
+
+-How the monitoring tool is collecting data?
+by using Real-time data collection method.
+
+-Explain what to do if you want to monitor your web server QPS?
+Queries-per-second (QPS) (or the query-per-second rate) is a measure of how much traffic a particular query server is handling at a given time. so to moniter my web server, I will do:
+-I will install a web monitoring app and monitor different metrics of the web. for instance
+-Sematext
+-Pingdom
+-Uptime
+
+-
